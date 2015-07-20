@@ -6,3 +6,4 @@
 5. /usr/local/bin/robotera/peistrans /home/plymouth/Desktop/xbees_angen1.xml
 6. open a new Terminal window and issue the following command:
 7. tupleview
+8. (sudo apt-get install cmake)
