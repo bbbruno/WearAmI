@@ -2,6 +2,7 @@
 The following installation guide has been tested on Ubuntu 12.04.5 LTS.
 
 *peistrans requires peisxbee to be installed.*
+
 *peistrans requires PEIS middleware to be installed.*
 
 1. Download peistrans
@@ -21,4 +22,4 @@ To run peistrans with the low-level configuration for Angen setup, issue the com
 1. `cd [extraction_folder]/peistrans`
 2. `./peistrans ./configs/XBee_Angen.xml`
 
-To modify or create a configuration, follow the instructions in *xml_format_readme.txt*.
+To modify or create a configuration, follow the instructions in: *xml_format_readme.txt*.
