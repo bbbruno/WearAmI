@@ -1,8 +1,3 @@
-//===============================================================================//
-// Author(s)    : Barbara Bruno
-// Affiliation  : University of Genova, Italy - dept. DIBRIS
-//===============================================================================//
-
 #include <iostream>
 #include <string>
 #include <sstream>
