@@ -1,0 +1,12 @@
+values for off and on for the wsn sensors
+kitchen chair 1 pressure: ON = 800; OFF = <350
+kitchen chair 2 pressure: ON = >700; OFF = <350
+kitchen cupboard switch: ON = >400; OFF = <60
+kitchen fridge switch: ON = >400; OFF = <70
+kitchen microwave switch: ON = >400; OFF = <60
+kitchen pir: ON = >600; OFF = <10 (very unstable)
+livingroom chair 1 pressure 1: ON = >500; OFF = <350 (with Nao), <310 (without)
+living chair 1 pressure 2: ON = >500; OFF = <400 (with Nao), <350 (without)
+living chair 2 pressure: ON = 630; OFF = <400 (goes on and off!)
+livingroom pir 1: ON = >1000; OFF = <10
+livingroom pir2: ON = 889; OFF = 1 (very unstable)

@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+
+<!-- README -->
+<!-- peistrans "convert to boolean" config for: Jonas WSN setup in Angen -->
+<!-- last updated on: 10/10/2014 -->
+
+<rules>
+    <match key="WSNAngen">
+        <rewrite key="*" repl="boolWSNAngen"/>
+
+	    <!-- TV -->
+	    <match key="livingroom.pir01">
+            <rewrite key="livingroom.pir01" repl="location.livingroom.TV"/>
+		    <eval expr='x > 400'/>
+	    </match>
+
+	    <!-- sofa -->
+	    <match key="livingroom.pir02">
+            <rewrite key="livingroom.pir02" repl="location.livingroom.sofa"/>
+		    <eval expr='x > 400'/>
+	    </match>
+
+	    <!-- (grey armchair windows side) -->
+	    <match key="livingroom.chair01.pressure01">
+            <rewrite key="livingroom.chair01.pressure01" repl="armchair01.p01"/>
+		    <eval expr='x > 450'/>
+	    </match>
+
+	    <!-- (grey armchair windows side) -->
+	    <match key="livingroom.chair01.pressure02">
+            <rewrite key="livingroom.chair01.pressure02" repl="armchair01.p02"/>
+		    <eval expr='x > 450'/>
+	    </match>
+
+	    <!-- (armchair center side) -->
+	    <match key="livingroom.chair02.pressure01">
+            <rewrite key="livingroom.chair02.pressure01" repl="armchair02"/>
+		    <eval expr='x > 450'/>
+	    </match>
+
+	    <match key="kitchen.pir01">
+            <rewrite key="kitchen.pir01" repl="location.kitchen"/>
+		    <eval expr='x > 350'/>
+	    </match>
+
+	    <!-- (chair center-windows side) -->
+	    <match key="kitchen.chair01.pressure01">
+            <rewrite key="kitchen.chair01.pressure01" repl="chair01"/>
+		    <eval expr='x > 500'/>
+	    </match>
+
+	    <!-- (chair center-fridge side) -->
+	    <match key="kitchen.chair02.pressure01">
+            <rewrite key="kitchen.chair02.pressure01" repl="chair02"/>
+		    <eval expr='x > 500'/>
+	    </match>
+
+	    <!-- UNKNOWN THRESHOLD! -->
+	    <!-- WSNAngen.bathroom.luminosity01 -->
+	
+	    <!-- UNKNOWN THRESHOLD! -->	
+	    <!-- WSNAngen.bathroom.pir01 -->
+	
+	    <!-- UNKNOWN THRESHOLD! -->
+	    <!-- WSNAngen.bathroom.temperature01 -->
+
+	    <match key="kitchen.microwave01.switch01">
+            <rewrite key="kitchen.microwave01.switch01" repl="microwave01"/>
+		    <eval expr='x > 200'/>
+	    </match>
+
+	    <match key="kitchen.fridge01.switch01">
+            <rewrite key="kitchen.fridge01.switch01" repl="fridge01"/>
+		    <eval expr='x > 200'/>
+	    </match>
+
+	    <match key="kitchen.cupboard01.switch01">
+            <rewrite key="kitchen.cupboard01.switch01" repl="cupboard01"/>
+		    <eval expr='x > 200'/>
+	    </match>
+    </match>
+</rules>
