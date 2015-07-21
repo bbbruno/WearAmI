@@ -18,5 +18,4 @@ The following installation guide has been tested on Ubuntu 12.04.5 LTS.
 To run, open a terminal window and issue the following commands:
 
 1. `cd [extraction_folder]/peisxbee`
-
 2. `./peisxbee`
