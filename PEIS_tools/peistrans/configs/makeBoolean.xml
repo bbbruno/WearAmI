@@ -4,70 +4,74 @@
 	<match key="angen1">
 		<rewrite key="*" repl="angen1_bool"/>
 
-		<!-- WSNAngen.livingroom -->
+		<!-- angen1.livingroom -->
 		<match key="livingroom">
 			<rewrite key="livingroom" repl="livingroom"/>
-            <!-- WSNAngen.livingroom.pir01 (TV) -->		
+            		
+			<!-- livingroom.pir01 -->		
 			<match key="pir01">
 				<rewrite key="*" repl="pir01"/>
-				<eval expr='x > 400'/>
+				<eval expr='x > 500'/>
 			</match>
-            <!-- WSNAngen.livingroom.pir02 (sofa) -->
+
+			<!-- livingroom.pir02 -->
             <match key="pir02">
 				<rewrite key="*" repl="pir02"/>
 				<eval expr='x > 400'/>
 			</match>
-            <!-- WSNAngen.livingroom.chair01.pressure01 & pressure02 -->
-		    <!-- (grey armchair windows side) -->
+
+            <!-- livingroom.chair01.pressure01 & pressure02 -->
             <match key="chair01">
                 <rewrite key="chair01" repl="chair01"/>
                 <match key="pressure01">
 				    <rewrite key="*" repl="pressure01"/>
-				    <eval expr='x > 450'/>
+				    <eval expr='x > 400'/>
                 </match>
                 <match key="pressure02">
 				    <rewrite key="*" repl="pressure02"/>
-				    <eval expr='x > 450'/>
+				    <eval expr='x > 420'/>
                 </match>
 			</match>
-            <!-- WSNAngen.livingroom.chair02.pressure01 -->
-		    <!-- (armchair center side) -->	
+
+            <!-- livingroom.chair02.pressure01 -->	
             <match key="chair02">
                 <rewrite key="chair02" repl="chair02"/>
                 <match key="pressure01">
 				    <rewrite key="*" repl="pressure01"/>
-				    <eval expr='x > 450'/>
+				    <eval expr='x > 700'/>
                 </match>
 			</match>
 		</match>
 
-		<!-- WSNAngen.kitchen -->
+		<!-- angen1.kitchen -->
 		<match key="kitchen">
 			<rewrite key="kitchen" repl="kitchen"/>
-            <!-- WSNAngen.kitchen.pir01 -->		
+
+            <!-- kitchen.pir01 -->		
 			<match key="pir01">
 				<rewrite key="*" repl="pir01"/>
-				<eval expr='x > 350'/>
+				<eval expr='x > 400'/>
 			</match>
-            <!-- WSNAngen.kitchen.chair01.pressure01 -->
-		    <!-- (chair center-windows side) -->
+
+            <!-- kitchen.chair01.pressure01 -->
             <match key="chair01">
-                <rewrite key="chair01" repl="chair01"/>
+               	<rewrite key="chair01" repl="chair01"/>
                 <match key="pressure01">
 				    <rewrite key="*" repl="pressure01"/>
-				    <eval expr='x > 500'/>
+				    <eval expr='x > 300'/>
                 </match>
 			</match>
-            <!-- WSNAngen.kitchen.chair02.pressure01 -->
-		    <!-- (chair center-fridge side) -->
+
+            <!-- kitchen.chair02.pressure01 -->
             <match key="chair02">
                 <rewrite key="chair02" repl="chair02"/>
                 <match key="pressure01">
 				    <rewrite key="*" repl="pressure01"/>
-				    <eval expr='x > 500'/>
+				    <eval expr='x > 700'/>
                 </match>
 			</match>
-            <!-- WSNAngen.kitchen.microwave01.switch01 -->
+
+            <!-- kitchen.microwave01.switch01 -->
             <match key="microwave01">
                 <rewrite key="microwave01" repl="microwave01"/>
 			    <match key="switch01">
@@ -75,50 +79,45 @@
 				    <eval expr='x > 200'/>
                 </match>
 			</match>
-            <!-- WSNAngen.kitchen.fridge01.switch01 -->
+
+            <!-- kitchen.fridge01.switch01 -->
             <match key="fridge01">
-                <rewrite key="fridge01" repl="fridge01"/>
-			    <match key="switch01">
+                		<rewrite key="fridge01" repl="fridge01"/>
+			    	<match key="switch01">
 				    <rewrite key="*" repl="switch01"/>
 				    <eval expr='x > 200'/>
-                </match>
+                		</match>
 			</match>
-            <!-- WSNAngen.kitchen.cupboard01.switch01 -->
-            <match key="cupboard01">
-                <rewrite key="cupboard01" repl="cupboard01"/>
-			    <match key="switch01">
+
+			<!-- kitchen.cupboard01.switch01 -->
+			<match key="cupboard01">
+				<rewrite key="cupboard01" repl="cupboard01"/>
+				<match key="switch01">
 				    <rewrite key="*" repl="switch01"/>
-				    <eval expr='x > 200'/>
-                </match>
+				    <eval expr='x > 250'/>
+				</match>
 			</match>
 		</match>
-	
-		<!-- UNKNOWN THRESHOLD! -->
-	    <!-- WSNAngen.bathroom.luminosity01 -->
-	
-	    <!-- UNKNOWN THRESHOLD! -->	
-	    <!-- WSNAngen.bathroom.pir01 -->
-	
-	    <!-- UNKNOWN THRESHOLD! -->
-	    <!-- WSNAngen.bathroom.temperature01 -->
-
 	</match>
 
-    <match key="RFID">
-        <rewrite key="RFID" repl="angen1_bool"/>
-        <match key="Tag">
-            <rewrite key="Tag" repl="kitchen"/>
-            <!-- RFID.Tag.e0070000071dada6 = Plate -->
-            <match key="e0070000071dada6">
-                <rewrite key="e0070000071dada6" repl="plate01.rfid01"/>
-                <eval expr='x > 0'/>
-            </match>
+	<match key="RFID">
+		<rewrite key="RFID" repl="angen1_bool"/>
+		<match key="Tag">
+			<rewrite key="Tag" repl="kitchen"/>
+
+			<!-- RFID.Tag.e0070000071dada6 = Plate -->
+			<match key="e0070000071dada6">
+				<rewrite key="e0070000071dada6" repl="plate01.rfid01"/>
+               	<eval expr='x > 0'/>
+           	</match>
+
             <!-- RFID.Tag.e0070000071dae3c = Glass -->
             <match key="e0070000071dae3c">
                 <rewrite key="e0070000071dae3c" repl="glass01.rfid01"/>
                 <eval expr='x > 0'/>
             </match>
-            <!-- RFID.Tag.e00700001a855aba = Bottle -->
+            	
+			<!-- RFID.Tag.e00700001a855aba = Bottle -->
             <match key="e00700001a855aba">
                 <rewrite key="e00700001a855aba" repl="bottle01.rfid01"/>
                 <eval expr='x > 0'/>
