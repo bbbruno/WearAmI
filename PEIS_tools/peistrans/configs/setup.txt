@@ -9,7 +9,7 @@ Mapping from raw sensor values to ON/OFF for the XBee sensor network in Angen
 6. livingroom.chair02.pressure01: ON >= 550; OFF <= 350 --> threshold := 450
 
 not calibrated:
-1. livingroom.pir02: ON >= 889; OFF <= 1 --> threshold := 500 (impossible to test by myself)
+1. livingroom.pir02: ON >= 889; OFF <= 1 --> threshold := 400 (impossible to test by myself)
 2. livingroom.chair01.pressure01: ON >= 500; OFF <= 310 --> threshold := 400 (impossible to test by myself)
 3. livingroom.chair01.pressure02: ON >= 500; OFF <= 350 --> threshold := 420 (impossible to test by myself)
 
