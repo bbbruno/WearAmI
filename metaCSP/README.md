@@ -21,3 +21,15 @@ The following installation guide has been tested on Ubuntu 12.04.5 LTS.
 To test whether the import was successful, run the example
 
 **src/main/java org.metacsp.examples.meta TestContextInference.java**.
+
+## 3. Installing PEISJava
+*PEISJava requires PEIS middleware to be installed.*
+
+1. Open a terminal window and issue the following commands:
+2. `cd [PEISmiddleware_extraction_folder]/peisecology-master/bindings/PEISJava/G6.1`
+3. `ant all`
+4. `sudo ant install`
+
+To test whether installation was successful, issue the command: `java -jar dist/PeisJava.jar`
+
+
