@@ -3,14 +3,14 @@ The following installation guide has been tested on Ubuntu 12.04.5 LTS.
 
 ## 1. metaCSP framework installation guide
 1. Open a terminal window and issue the following commands:
-2. `cd [desider_install_folder]`
+2. `cd [install_folder]`
 3. `sudo apt-get install git`
 4. `git clone https://github.com/FedericoPecora/meta-csp-framework.git`
 
 ## 2. Importing the framework in an Eclipse project
 1. Open a terminal window and issue the following commands:
 2. `sudo apt-get install eclipse`
-3. `cd [desider_install_folder]/meta-csp-framework/`
+3. `cd [install_folder]/meta-csp-framework/`
 4. `./gradlew eclipse`
 5. Open Eclipse IDE
 6. Click on **File --> Import...**
