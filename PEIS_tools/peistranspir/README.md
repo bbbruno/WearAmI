@@ -5,7 +5,7 @@ The following installation guide has been tested on Ubuntu 12.04.5 LTS.
 
 *peistranspir requires peisxbee to be installed.*
 
-*peislogger requires PEIS middleware to be installed.*
+*peistranspir requires PEIS middleware to be installed.*
 
 1. Download peistranspir
 2. Move it to the desired folder (e.g. 'Documents/') and extract it
