@@ -33,5 +33,7 @@ To test whether the import was successful, run the example
 To test whether installation was successful, issue the command: `java -jar dist/PeisJava.jar`
 
 ## 4. Creating the PEISWearamiReasoner
-1. Copy the file **PEISWearamiReasoner.java** inside the folder **[eclipse_workspace]/meta-csp-framework/src/main/java/org/metacsp**
+1. Copy the file **PEISWearamiReasoner.java** inside the folder
+
+      **[eclipse_workspace]/meta-csp-framework/src/main/java/org/metacsp**
 2. Copy the file **testPEIS.ddl** inside the folder **[eclipse_workspace]/meta-csp-framework/domains**
