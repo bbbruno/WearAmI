@@ -22,36 +22,35 @@
 # Domain: testPEIS #
 #################################################
 # Sensors:                                      #
-# 01. Chair (pressure sensor)                   #
-# 02. Armchair (pressure sensor)                #
+# 01. Location (PIR)                            #
 #                                               #
 # Recognized Activities:                        #
-# 1. SitDown (chair)                            #
-# 2. SitDown (armchair)                         #
+# (debug mode)                                  #
+# a. InLivingroom                               #
+# b. InKitchen                                  #
 #################################################
 
 
 (Domain TestPEIS)
 
-(Sensor Chair)
-(Sensor Armchair)
+(Sensor Location)
 
 (ContextVariable Human)
 
-###################
-# SitDown (chair) #
-###################
+################
+# InLivingroom #
+################
 (SimpleOperator
- (Head Human::SitDownChair())
- (RequiredState req1 Chair::On())
+ (Head Human::InLivingroom())
+ (RequiredState req1 Location::Livingroom())
  (Constraint Equals(Head,req1))
 )
 
-######################
-# SitDown (armchair) #
-######################
+#############
+# InKitchen #
+#############
 (SimpleOperator
- (Head Human::SitDownArmchair())
- (RequiredState req1 Armchair::On())
+ (Head Human::InKitchen())
+ (RequiredState req1 Location::Kitchen())
  (Constraint Equals(Head,req1))
 )
