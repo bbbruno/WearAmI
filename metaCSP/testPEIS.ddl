@@ -9,9 +9,9 @@
 #   SimpleOperator                                              #
 #   SimpleDomain                                                #
 #   Constraint                                                  #
-#   RequiredState						                        #
-#   AchievedState						                        #
-#   RequiredResource						                    #
+#   RequiredState                                               #
+#   AchievedState                                               #
+#   RequiredResource                                            #
 #   All AllenIntervalConstraint types                           #
 #   '[' and ']' should be used only for constraint bounds       #
 #   '(' and ')' are used for parsing                            #
