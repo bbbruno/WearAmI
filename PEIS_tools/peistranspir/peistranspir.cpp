@@ -52,7 +52,7 @@ int main(int argc, char* argv[])
     // create the location tuple
     string location = "Unknown";
     string previousLocation = "Unknown";
-    peiskmt_setStringTuple("angen1_location", location.c_str());	
+    peiskmt_setStringTuple("Location", location.c_str());	
 
     // define the keys of the tuples to monitor
 	char key1[] = "angen1_bool.livingroom.pir01";
@@ -93,7 +93,7 @@ int main(int argc, char* argv[])
             location = "Livingroom";
         if(location != previousLocation)
         {
-            peiskmt_setStringTuple("angen1_location", location.c_str());
+            peiskmt_setStringTuple("Location", location.c_str());
             cout<<"Location: " <<location <<endl;
         }
         sleep(1);
