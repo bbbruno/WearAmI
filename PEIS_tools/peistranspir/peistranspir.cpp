@@ -11,16 +11,34 @@ extern "C"
 
 using namespace std;
 
+// global variables for possible person locations
+bool inLivingroom = false;
+bool inKitchen = false;
+
 void callbackLivingroom(PeisTuple* t, void* arg)
 {
     // publish "Livingroom" as current location
-    peiskmt_setStringTuple("angen1_location", "Livingroom");	
+    string here = t->data;
+    if(here.compare("true") == 0)
+    {
+        inLivingroom = true;
+        cout<<"Livingroom"<<endl;
+    }
+    else
+        inLivingroom = false;
 }
 
 void callbackKitchen(PeisTuple* t, void* arg)
 {
     // publish "Kitchen" as current location
-    peiskmt_setStringTuple("angen1_location", "Kitchen");	
+    string here = t->data;
+    if(here.compare("true") == 0)
+    {
+        inKitchen = true;
+        cout<<"Kitchen"<<endl;
+    }
+    else
+        inKitchen = false;	
 }
 
 int main(int argc, char* argv[])
@@ -31,37 +49,53 @@ int main(int argc, char* argv[])
 	int componentID = peiskmt_peisid();
 	printf("componentID: %d\n", componentID);
 
+    // create the location tuple
+    string location = "Unknown";
+    string previousLocation = "Unknown";
+    peiskmt_setStringTuple("angen1_location", location.c_str());	
+
     // define the keys of the tuples to monitor
-	string key1="angen1_bool.livingroom.pir01.*";
-    string key2="angen1_bool.livingroom.pir02.*";
-    string key3="angen1_bool.kitchen.pir01.*";
+	char key1[] = "angen1_bool.livingroom.pir01";
+    char key2[] = "angen1_bool.livingroom.pir02";
+    char key3[] = "angen1_bool.kitchen.pir01";
 
-    // subscribe to the tuples
-	PeisTuple prototype1;
-    PeisTuple prototype2;
-    PeisTuple prototype3;
-    // key1
+    // subscribe to the tuples to monitor
+    PeisTuple prototype1;
     peisk_initAbstractTuple(&prototype1);
-	prototype1.owner = -1;
-	peisk_setTupleName(&prototype1,key1.c_str());
+    prototype1.owner = -1;
+    peisk_setTupleName(&prototype1, key1);
     peisk_subscribeByAbstract(&prototype1);
-	peisk_registerTupleCallbackByAbstract(&prototype1, NULL,callbackLivingroom);
-    // key2
-    peisk_initAbstractTuple(&prototype2);
-	prototype2.owner = -1;
-	peisk_setTupleName(&prototype2,key2.c_str());
-    peisk_subscribeByAbstract(&prototype2);
-	peisk_registerTupleCallbackByAbstract(&prototype2, NULL,callbackLivingroom);
-    // key3
-    peisk_initAbstractTuple(&prototype3);
-	prototype3.owner = -1;
-	peisk_setTupleName(&prototype3,key3.c_str());
-    peisk_subscribeByAbstract(&prototype3);
-	peisk_registerTupleCallbackByAbstract(&prototype3, NULL,callbackKitchen);
+    peisk_registerTupleCallbackByAbstract(&prototype1, &location, callbackLivingroom);
 
-    // hold on forever
+    PeisTuple prototype2;
+    peisk_initAbstractTuple(&prototype2);
+    prototype2.owner = -1;
+    peisk_setTupleName(&prototype2, key2);
+    peisk_subscribeByAbstract(&prototype2);
+    peisk_registerTupleCallbackByAbstract(&prototype2, &location, callbackLivingroom);
+
+    PeisTuple prototype3;
+    peisk_initAbstractTuple(&prototype3);
+    prototype3.owner = -1;
+    peisk_setTupleName(&prototype3, key3);
+    peisk_subscribeByAbstract(&prototype3);
+    peisk_registerTupleCallbackByAbstract(&prototype3, NULL, callbackKitchen);
+    
+    // check whether the person location has changed
     while(peiskmt_isRunning())
     {
+        previousLocation = location;
+        if(inLivingroom == false && inKitchen == false)
+            location = "Unknown";
+        else if(inLivingroom == false && inKitchen == true)
+            location = "Kitchen";
+        else
+            location = "Livingroom";
+        if(location != previousLocation)
+        {
+            peiskmt_setStringTuple("angen1_location", location.c_str());
+            cout<<"Location: " <<location <<endl;
+        }
         sleep(1);
     }
 }
