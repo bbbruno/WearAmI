@@ -22,13 +22,15 @@
 # Domain: testLocationPosture #
 #################################################
 # Sensors:                                      #
-# 01. Location (PIR)                            #
-# 03. Posture (waist-placed fall detector)      #
+# 01.  Location (PIR)                           #
+# 03a. Posture (waist-placed IMU)               #
+# 03b. FallEvent (waist-placed IMU)             #
+# 04a. KitchenChairWindow (pressure sensor)     #
 #                                               #
 # Recognized Activities:                        #
 # (debug mode)                                  #
 # a. Seated                                     #
-# b. Standing                                   #
+# b. ConfusingSeated                            #
 # c. FallInLivingroom							#
 # d. FallInKitchen								#
 #################################################
@@ -39,6 +41,7 @@
 (Sensor Location)
 (Sensor Posture)
 (Sensor FallEvent)
+(Sensor KitchenChairWindow)
 
 (ContextVariable Human)
 
@@ -48,16 +51,20 @@
 (SimpleOperator
  (Head Human::Seated())
  (RequiredState req1 Posture::Sitting())
- (Constraint Equals(Head,req1))
+ (RequiredState req2 KitchenChairWindow::true())
+ (Constraint Overlaps(Head,req1))
+ (Constraint Overlaps(Head,req2))
 )
 
-############
-# Standing #
-############
+###################
+# ConfusingSeated #
+###################
 (SimpleOperator
- (Head Human::Standing())
+ (Head Human::ConfusingSeated())
  (RequiredState req1 Posture::Standing())
- (Constraint Equals(Head,req1))
+ (RequiredState req2 KitchenChairWindow::true())
+ (Constraint Overlaps(Head,req1))
+ (Constraint Overlaps(Head,req2))
 )
 
 ####################
@@ -67,8 +74,8 @@
  (Head Human::FallInLivingroom())
  (RequiredState req1 FallEvent::true())
  (RequiredState req2 Location::Livingroom())
- (Constraint Equals(Head,req1))
- (Constraint During(Head,req2))
+ (Constraint Contains(Head,req1))
+ (Constraint Overlaps(Head,req2))
 )
 
 #################
@@ -78,6 +85,6 @@
  (Head Human::FallInKitchen())
  (RequiredState req1 FallEvent::true())
  (RequiredState req2 Location::Kitchen())
- (Constraint Equals(Head,req1))
- (Constraint During(Head,req2))
+ (Constraint Contains(Head,req1))
+ (Constraint Overlaps(Head,req2))
 )

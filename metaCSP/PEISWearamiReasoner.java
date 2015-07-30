@@ -58,6 +58,7 @@ public class PEISWearamiReasoner {
 		final Sensor sensorLocation = new Sensor("Location", animator);
 		final Sensor sensorPosture = new Sensor("Posture", animator);
 		final Sensor sensorFallEvent = new Sensor("FallEvent", animator);
+		final Sensor sensorKitchenChairWindow = new Sensor("KitchenChairWindow", animator);
 				
 		// TODO: wearamiAngen_ROMAN sensor set
 		//String[] sensorNames = {"Location", "Gesture", "Posture", "Chair", "Armchair", "Glass", "Bottle"};
@@ -76,6 +77,10 @@ public class PEISWearamiReasoner {
 		PeisJavaMT.peisjava_subscribe(-1, "Safety.fall.event");
 		int ownerFallEvent = PeisJavaMT.peisjava_findOwner("Safety.fall.event");
 		PeisTuple tupleFallEvent = PeisJavaMT.peisjava_getTuple(ownerFallEvent, "Safety.fall.event");
+		
+		PeisJavaMT.peisjava_subscribe(-1, "angen1.kitchen.chair01.pressure01");
+		int ownerKitchenChairWindow = PeisJavaMT.peisjava_findOwner("angen1.kitchen.chair01.pressure01");
+		PeisTuple tupleKitchenChairWindow = PeisJavaMT.peisjava_getTuple(ownerKitchenChairWindow, "angen1.kitchen.chair01.pressure01");
 		
 		// Connect sensors to sources - PEIStuples
 		PeisJavaMT.peisjava_registerTupleCallback(
@@ -116,9 +121,22 @@ public class PEISWearamiReasoner {
 				}
 			}
 		);
+		
+		PeisJavaMT.peisjava_registerTupleCallback(
+			tupleKitchenChairWindow.owner,
+			tupleKitchenChairWindow.getKey(),
+			new CallbackObject() {
+				@Override
+				public void callback(PeisTuple tuple) {
+					if (tuple.getStringData() != null) {
+						sensorKitchenChairWindow.postSensorValue(tuple.getStringData(), Calendar.getInstance().getTimeInMillis());
+					}
+				}
+			}
+		);
 
 		// Create timeline visualizer
-		TimelinePublisher tp = new TimelinePublisher(ans.getConstraintNetwork(), new Bounds(0,60000), true, "Time", "Human", "Location", "Posture", "FallEvent");
+		TimelinePublisher tp = new TimelinePublisher(ans.getConstraintNetwork(), new Bounds(0,60000), true, "Time", "Human", "Location", "Posture", "FallEvent", "KitchenChairWindow");
 		TimelineVisualizer tv = new TimelineVisualizer(tp);
 		tv.startAutomaticUpdate(1000);
 	}
