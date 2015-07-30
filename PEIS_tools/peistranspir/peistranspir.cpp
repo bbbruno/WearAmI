@@ -43,11 +43,11 @@ void callbackKitchen(PeisTuple* t, void* arg)
 
 int main(int argc, char* argv[])
 {
-	// instantiate & initialize the PEIS component
-	peiskmt_initialize(&argc, argv);
-	// retrieve componentID from the component
-	int componentID = peiskmt_peisid();
-	printf("componentID: %d\n", componentID);
+    // instantiate & initialize the PEIS component
+    peiskmt_initialize(&argc, argv);
+    // retrieve componentID from the component
+    int componentID = peiskmt_peisid();
+    printf("componentID: %d\n", componentID);
 
     // create the location tuple
     string location = "Unknown";
@@ -55,9 +55,8 @@ int main(int argc, char* argv[])
     peiskmt_setStringTuple("Location", location.c_str());	
 
     // define the keys of the tuples to monitor
-	char key1[] = "angen1_bool.livingroom.pir01";
-    char key2[] = "angen1_bool.livingroom.pir02";
-    char key3[] = "angen1_bool.kitchen.pir01";
+    char key1[] = "angen1_bool.livingroom.pir01";
+    char key2[] = "angen1_bool.kitchen.pir01";
 
     // subscribe to the tuples to monitor
     PeisTuple prototype1;
@@ -72,14 +71,7 @@ int main(int argc, char* argv[])
     prototype2.owner = -1;
     peisk_setTupleName(&prototype2, key2);
     peisk_subscribeByAbstract(&prototype2);
-    peisk_registerTupleCallbackByAbstract(&prototype2, &location, callbackLivingroom);
-
-    PeisTuple prototype3;
-    peisk_initAbstractTuple(&prototype3);
-    prototype3.owner = -1;
-    peisk_setTupleName(&prototype3, key3);
-    peisk_subscribeByAbstract(&prototype3);
-    peisk_registerTupleCallbackByAbstract(&prototype3, NULL, callbackKitchen);
+    peisk_registerTupleCallbackByAbstract(&prototype2, &location, callbackKitchen);
     
     // check whether the person location has changed
     while(peiskmt_isRunning())
