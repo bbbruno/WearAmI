@@ -25,6 +25,7 @@ using namespace std;
 
 #define STANDING_THRESHOLD 155.0
 #define SITTING_THRESHOLD 105.0
+#define COUNTER_THRESHOLD 5
 
 //! definition of the class "SensingBelt"
 class SensingBelt
