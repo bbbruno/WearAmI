@@ -9,9 +9,9 @@
 #   SimpleOperator                                              #
 #   SimpleDomain                                                #
 #   Constraint                                                  #
-#   RequiredState						                        #
-#   AchievedState						                        #
-#   RequiredResource						                    #
+#   RequiredState                                               #
+#   AchievedState                                               #
+#   RequiredResource                                            #
 #   All AllenIntervalConstraint types                           #
 #   '[' and ']' should be used only for constraint bounds       #
 #   '(' and ')' are used for parsing                            #
@@ -31,8 +31,8 @@
 # (debug mode)                                  #
 # a. Seated                                     #
 # b. ConfusingSeated                            #
-# c. FallInLivingroom							#
-# d. FallInKitchen								#
+# c. FallInLivingroom                           #
+# d. FallInKitchen                              #
 #################################################
 
 
@@ -52,8 +52,8 @@
  (Head Human::Seated())
  (RequiredState req1 Posture::Sitting())
  (RequiredState req2 KitchenChairWindow::true())
- (Constraint Overlaps(Head,req1))
- (Constraint Overlaps(Head,req2))
+ (Constraint During(Head,req1))
+ (Constraint During(Head,req2))
 )
 
 ###################
@@ -63,8 +63,8 @@
  (Head Human::ConfusingSeated())
  (RequiredState req1 Posture::Standing())
  (RequiredState req2 KitchenChairWindow::true())
- (Constraint Overlaps(Head,req1))
- (Constraint Overlaps(Head,req2))
+ (Constraint During(Head,req1))
+ (Constraint During(Head,req2))
 )
 
 ####################
@@ -74,8 +74,8 @@
  (Head Human::FallInLivingroom())
  (RequiredState req1 FallEvent::true())
  (RequiredState req2 Location::Livingroom())
- (Constraint Contains(Head,req1))
- (Constraint Overlaps(Head,req2))
+ (Constraint During(Head,req1))
+ (Constraint During(Head,req2))
 )
 
 #################
@@ -85,6 +85,6 @@
  (Head Human::FallInKitchen())
  (RequiredState req1 FallEvent::true())
  (RequiredState req2 Location::Kitchen())
- (Constraint Contains(Head,req1))
- (Constraint Overlaps(Head,req2))
+ (Constraint During(Head,req1))
+ (Constraint During(Head,req2))
 )
