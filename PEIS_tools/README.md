@@ -31,4 +31,5 @@ To test whether installation was successfull, issue the command:
 To test whether installation was successfull, issue the command:
 `peismaster & tupleview`
 
-You should see the peismaster component in tupleview.
+You should see the peismaster component in tupleview:
+![](https://github.com/bbbruno/WearAmI/blob/master/images/ss_peismaster_tupleview.jpg)
