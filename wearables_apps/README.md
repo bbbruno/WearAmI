@@ -1,35 +1,31 @@
-﻿# PEIS Middleware Installation Guide
-The following installation guide has been tested on Ubuntu 12.04.5 LTS.
+# Wearables Apps Installation Guide
+The following installation guide has been tested on Windows 8.1 (x64).
 
-## 1. PEIS middleware installation guide
-1. Download the middleware from the GitHub repository **mbrx/peisecology**
-2. Move it to the desired folder (e.g. 'Documents/') and extract it
-3. Open a terminal window and issue the following commands:
-4. `sudo apt-get install build-essential`
-5. `sudo apt-get install libtool`
-6. `sudo apt-get install autotools-dev`
-7. `sudo apt-get install automake`
-8. `sudo apt-get install zlib1g-dev`
-8. `cd [extraction_folder]/peisecology-master/peiskernel/G6`
-9. `./autogen.sh`
-10. `./configure`
-11. `make`
-12. `sudo make install`
-13. `sudo ldconfig`
+## 1. Smartphone WearAmI app installation guide
+1. Download and install Android Studio IDE (it requires Java JDK 7 or higher)
+2. Activate the developer mode on the smartphone
+3. Enable USB debugging on the smartphone
+4. Make sure the smartphone has Internet access
+5. Connect the smartphone to the PC via USB and select PTP as connection method
+6. With the **Android SDK Manager** within Android Studio, download the **Google USB Driver**
+7. Manually install the driver, instructions can be found here: http://visualgdb.com/tutorials/android/usbdebug/manualinstall.php
+8. Download the WearAmI package from the GitHub repository **bbbruno/WearAmI**
+9. Import the **wearables_apps** project in Android Studio
+10. Build the project
+11. Run the *WearAmI (mobile)* app
+12. When prompted on the smartphone, accept the connection to the PC
 
-To test whether installation was successfull, issue the command:
-`peismaster`
+The WearAmI app opens on the smartphone and is listed among the installed apps.
 
-## 2. Tupleview installation guide
-1. Open a terminal window and issue the following commands:
-2. `sudo apt-get install libglade2-dev`
-3. `cd [extraction_folder]/peisecology-master/tupleview/G6`
-4. `./autogen.sh`
-5. `make`
-6. `sudo make install`
+## 2. Smartwatch WearAmI app installation guide
+1. Pair the smartwatch the the smartphone, instructions can be found here: https://support.google.com/androidwear/answer/6056630?hl=en
+2. Activate the developer mode on the smartwatch
+3. Enable ADB debugging on the smartwatch
+4. Connect the smartwatch to the PC via USB
+5. In Android Studio, build the **wearables_apps** project
+6. Run the *WearAmI (wear)* app
+7. When prompted on the smartwatch, accept the connection to the PC
 
-To test whether installation was successfull, issue the command:
-`peismaster & tupleview`
+The WearAmI app opens on the smartwatch and is listed among the installed apps.
 
-You should see the peismaster component in tupleview:
-![](https://github.com/bbbruno/WearAmI/blob/master/images/ss_tupleview.jpg)
+Sensory data read by the smartwatch appear in the WearAmI app on the paired smartphone.
