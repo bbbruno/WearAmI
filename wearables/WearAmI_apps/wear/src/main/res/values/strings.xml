@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WearAmI</string>
+    <string name="hello_round">Sending data to smartphone</string>
+    <string name="hello_square">Sending data to smartphone</string>
+</resources>

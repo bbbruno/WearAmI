@@ -22,6 +22,11 @@ import com.google.android.gms.wearable.Node;
 import com.google.android.gms.wearable.NodeApi;
 import com.google.android.gms.wearable.Wearable;
 
+import java.io.File;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
@@ -31,6 +36,9 @@ public class MainActivity extends Activity implements SensorEventListener {
 
     private TextView mTextView;
     private TextView mButton;
+
+    boolean writeEnabled=false;
+    int writed=0;
 
     String nodeId;
 
@@ -69,13 +77,23 @@ public class MainActivity extends Activity implements SensorEventListener {
             @Override
             public void onLayoutInflated(WatchViewStub stub) {
                 mTextView = (TextView) stub.findViewById(R.id.text);
-                mButton = (Button) stub.findViewById(R.id.btnWear);
+                mButton = (Button) stub.findViewById(R.id.btnWearStart);
 
                 mButton.setOnClickListener(new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
                         //sendMessage("/motion_data", "motion data");
-                        Log.d("mess", "send btn mess");
+                        writeEnabled=true;
+                        Log.d("mess", "Start Write");
+                    }
+                });
+
+                ((Button) stub.findViewById(R.id.btnWearStop)).setOnClickListener(new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                        //sendMessage("/motion_data", "motion data");
+                        writeEnabled = false;
+                        Log.d("mess", "Stop Write");
                     }
                 });
             }
@@ -134,6 +152,35 @@ public class MainActivity extends Activity implements SensorEventListener {
         final String strSend=mess;
         final int tipo = type;
 
+        if(writeEnabled) {
+
+            mTextView = (TextView) findViewById(R.id.text);
+            mTextView.setText("Scrivo "+writed++);
+
+            String date = new SimpleDateFormat("yyyyMMdd").format(new Date());
+
+            FileOutputStream fos;
+            File myFile = new File("/sdcard/" + date + ".txt");
+            try {
+                FileOutputStream fOut = new FileOutputStream(myFile, true);
+                OutputStreamWriter myOutWriter = new OutputStreamWriter(fOut);
+                myOutWriter.append(mess);
+                myOutWriter.close();
+                fOut.close();
+            } catch (IOException e) {
+                e.printStackTrace();
+                Log.d("wear", "errore scrittura");
+            }
+        }
+        else
+        {
+            mTextView = (TextView) findViewById(R.id.text);
+            mTextView.setText("NON SCRIVO ");
+            writed=0;
+        }
+
+
+
         if (nodeId != null) {
             new Thread(new Runnable() {
                 @Override
@@ -150,7 +197,7 @@ public class MainActivity extends Activity implements SensorEventListener {
                     }
                     client.disconnect();
 
-                    Log.d("mess", "send mess");
+                    //Log.d("mess", "send mess");
                 }
             }).start();
         }

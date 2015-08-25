@@ -149,7 +149,7 @@ public class MainActivity extends Activity implements SensorEventListener {
                 public void run(){
                     try {
 
-                        Socket client1 = new Socket("130.251.13.216", 8888);
+                        Socket client1 = new Socket("192.168.80.136", 8888);
                         ObjectOutputStream oos = new ObjectOutputStream(client1.getOutputStream());
                         oos.writeObject(message);
                         oos.close();
