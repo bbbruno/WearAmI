@@ -35,4 +35,5 @@ The WearAmI app opens on the smartwatch and is listed among the installed apps.
 4. Once done with the recording, tap on the "Stop button" (the on-screen text displays "NON SCRIVO")
 5. To download the log file, connect the smartwatch to the PC via USB
 6. In Android Studio, open the **Android Device Monitor** (Tools-->Android-->Android Device Monitor)
-7. Open the **File Explorer** tab: the log file is in the folder */mnt/shell/emulated/0/*
+7. Open the **File Explorer** tab: the log file is in the folder */mnt/shell/emulated/0/*:
+![](https://github.com/bbbruno/WearAmI/blob/master/images/ss_useWearable.png)
