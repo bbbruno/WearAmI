@@ -36,5 +36,3 @@ The WearAmI app opens on the smartwatch and is listed among the installed apps.
 5. To download the log file, connect the smartwatch to the PC via USB
 6. In Android Studio, open the **Android Device Monitor** (Tools-->Android-->Android Device Monitor)
 7. Open the **File Explorer** tab: the log file is in the folder */mnt/shell/emulated/0/*
-
-Sensory data read by the smartwatch appear in the WearAmI app on the paired smartphone.
