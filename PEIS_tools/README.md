@@ -1,6 +1,8 @@
 ﻿# PEIS Middleware Installation Guide
 The following installation guide has been tested on Ubuntu 12.04.5 LTS.
 
+Note: if the make command generates an error related to the sleep function, import the library unistd.h in the file where the error is raised. This problem may occur with newer Ubuntu distros.
+
 ## 1. PEIS middleware installation guide
 1. Download the middleware from the GitHub repository **mbrx/peisecology**
 2. Move it to the desired folder (e.g. 'Documents/') and extract it
