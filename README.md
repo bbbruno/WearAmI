@@ -12,4 +12,9 @@ information about the status of the person, to be used for:
 2. validation of the robot actions, on the basis of the subsequent person actions.
 
 ## Repository overview
-TO DO
+- `environmentals`: software for the management of the environmental sensors.
+- `middleware`: communication middleware, allowing wearable and environmental sensors to share information among themselves and with the reasoner.
+- `PEIS_tools`: a collection of utilities for the middleware.
+- `reasoner`: the temporal reasoner used to extract high-level Human Activities information from the sensor's data
+- `testbed`: details of the project's testbed. WearAmI can rely on a fully accessorized smart apartment in Örebro (http://www.angeninnovation.se/) and a development setup in the EMAROlab facility of the University of Genoa.
+- `wearables`: software for the management of the wearable sensors.
