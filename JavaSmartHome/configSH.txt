@@ -1,0 +1,8 @@
+removeTime=180
+sleepScale=0
+numPIR=51
+numItem=8
+numDoor=12
+numStoves=1
+numFaucets=2
+numPhones=1

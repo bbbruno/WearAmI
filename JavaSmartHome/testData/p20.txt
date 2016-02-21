@@ -1,0 +1,2644 @@
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t0------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t1------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t1------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t2------
+Situation 
+------ EXPLANATION = Situation Event_t2------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t2------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t3------
+Situation 
+------ EXPLANATION = Situation Event_t3------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t3------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t4------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t4------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t5------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t5------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t6------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t6------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t7------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t7------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t8------
+Situation 
+------ EXPLANATION = Situation Event_t8------
+Events 
+------ EXPLANATION = Events Event_t8------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t9------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t9------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t10------
+Situation 
+------ EXPLANATION = Situation Event_t10------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t11------
+Situation 
+------ EXPLANATION = Situation Event_t11------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t12------
+Situation 
+------ EXPLANATION = Situation Event_t12------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t13------
+Situation 
+------ EXPLANATION = Situation Event_t13------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t14------
+Situation 
+------ EXPLANATION = Situation Event_t14------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t15------
+Situation 
+------ EXPLANATION = Situation Event_t15------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t16------
+Situation 
+------ EXPLANATION = Situation Event_t16------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t17------
+Situation 
+------ EXPLANATION = Situation Event_t17------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t18------
+Situation 
+------ EXPLANATION = Situation Event_t18------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t19------
+Situation 
+------ EXPLANATION = Situation Event_t19------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t20------
+Situation 
+------ EXPLANATION = Situation Event_t20------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t21------
+Situation 
+------ EXPLANATION = Situation Event_t21------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t22------
+Situation 
+------ EXPLANATION = Situation Event_t22------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t23------
+Situation 
+------ EXPLANATION = Situation Event_t23------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t24------
+Situation 
+------ EXPLANATION = Situation Event_t24------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t25------
+Situation 
+------ EXPLANATION = Situation Event_t25------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t26------
+Situation 
+------ EXPLANATION = Situation Event_t26------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t27------
+Situation 
+------ EXPLANATION = Situation Event_t27------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t28------
+Situation 
+------ EXPLANATION = Situation Event_t28------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t28------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t29------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t29------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t30------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t30------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t31------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t31------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t32------
+Situation 
+------ EXPLANATION = Situation Event_t32------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t33------
+UtenteVicinoAlMicroonde 
+------ EXPLANATION = UtenteVicinoAlMicroonde Event_t33------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t34------
+UtenteVicinoAlMicroonde 
+------ EXPLANATION = UtenteVicinoAlMicroonde Event_t34------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t34------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t35------
+UtenteVicinoAlMicroonde 
+------ EXPLANATION = UtenteVicinoAlMicroonde Event_t35------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t35------
+ 
+Context? Situation 
+------ EXPLANATION = Situation Event_t36------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t36------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t37------
+Situation 
+------ EXPLANATION = Situation Event_t37------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t37------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t38------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t38------
+Situation 
+------ EXPLANATION = Situation Event_t38------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t38------
+Events 
+------ EXPLANATION = Events Event_t38------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t39------
+Situation 
+------ EXPLANATION = Situation Event_t39------
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t39------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t39------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t40------
+Situation 
+------ EXPLANATION = Situation Event_t40------
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t40------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t40------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t40------
+Events 
+------ EXPLANATION = Events Event_t40------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t41------
+Situation 
+------ EXPLANATION = Situation Event_t41------
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t41------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t41------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t41------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t42------
+Situation 
+------ EXPLANATION = Situation Event_t42------
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t42------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t42------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t43------
+Situation 
+------ EXPLANATION = Situation Event_t43------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t43------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t44------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t44------
+Situation 
+------ EXPLANATION = Situation Event_t44------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t44------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t44------
+Events 
+------ EXPLANATION = Events Event_t44------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t45------
+PreparaCena 
+------ EXPLANATION = PreparaCena Event_t45------
+Event_t43 Before Event_t42
+iDoor10_t44 Overlap Event_t44
+iDoor10_t45 Overlap Event_t45
+Event_t45 Before Event_t44
+iItem2_t34 Overlap Event_t42
+Event_t44 Before Event_t43
+NEW SITUATION: PreparaCena-----------------------------------------------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t45------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t45------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t46------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t46------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t46------
+Event_t43 Before Event_t42
+Event_t46 Before Event_t45
+iDoor10_t44 Overlap Event_t44
+iDoor10_t45 Overlap Event_t45
+Event_t45 Before Event_t44
+iItem2_t34 Overlap Event_t42
+Event_t44 Before Event_t43
+iDoor10_t45 Overlap Event_t46
+NEW SITUATION: CiboPronto-----------------------------------------------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t46------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t47------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t47------
+Situation 
+------ EXPLANATION = Situation Event_t47------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t47------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t47------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t47------
+Event_t43 Before Event_t42
+Event_t45 Before Event_t44
+iDoor10_t45 Overlap Event_t47
+iDoor10_t44 Overlap Event_t45
+Event_t46 Before Event_t45
+Event_t47 Before Event_t46
+iItem2_t34 Overlap Event_t42
+Event_t44 Before Event_t43
+iDoor10_t45 Overlap Event_t46
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t47------
+Events 
+------ EXPLANATION = Events Event_t47------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t48------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t48------
+Situation 
+------ EXPLANATION = Situation Event_t48------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t48------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t48------
+iDoor10_t45 Overlap Event_t48
+iItem2_t34 Overlap Event_t44
+Event_t46 Before Event_t45
+Event_t47 Before Event_t46
+Event_t45 Before Event_t44
+iDoor10_t44 Overlap Event_t46
+Event_t48 Before Event_t47
+iDoor10_t45 Overlap Event_t47
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t48------
+Events 
+------ EXPLANATION = Events Event_t48------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t49------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t49------
+Situation 
+------ EXPLANATION = Situation Event_t49------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t49------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t49------
+iDoor10_t45 Overlap Event_t48
+iDoor10_t44 Overlap Event_t47
+Event_t47 Before Event_t46
+iItem2_t34 Overlap Event_t46
+Event_t49 Before Event_t48
+iDoor10_t45 Overlap Event_t49
+Event_t48 Before Event_t47
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t49------
+Events 
+------ EXPLANATION = Events Event_t49------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t50------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t50------
+Situation 
+------ EXPLANATION = Situation Event_t50------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t50------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t50------
+iDoor10_t45 Overlap Event_t50
+Event_t50 Before Event_t49
+iItem2_t34 Overlap Event_t47
+Event_t49 Before Event_t48
+iDoor10_t45 Overlap Event_t49
+Event_t48 Before Event_t47
+iDoor10_t44 Overlap Event_t48
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t50------
+Events 
+------ EXPLANATION = Events Event_t50------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t51------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t51------
+Situation 
+------ EXPLANATION = Situation Event_t51------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t51------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t51------
+Event_t51 Before Event_t50
+iDoor10_t45 Overlap Event_t50
+Event_t50 Before Event_t49
+Event_t49 Before Event_t48
+iDoor10_t44 Overlap Event_t49
+iDoor10_t45 Overlap Event_t51
+iItem2_t34 Overlap Event_t48
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t51------
+Events 
+------ EXPLANATION = Events Event_t51------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t52------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t52------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t52------
+Event_t51 Before Event_t50
+iDoor10_t44 Overlap Event_t50
+iDoor10_t45 Overlap Event_t52
+Event_t52 Before Event_t51
+Event_t50 Before Event_t49
+iItem2_t34 Overlap Event_t49
+iDoor10_t45 Overlap Event_t51
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t52------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t53------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t53------
+Situation 
+------ EXPLANATION = Situation Event_t53------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t53------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t53------
+iItem2_t34 Overlap Event_t50
+Event_t51 Before Event_t50
+iDoor10_t45 Overlap Event_t53
+iDoor10_t45 Overlap Event_t52
+Event_t52 Before Event_t51
+iDoor10_t44 Overlap Event_t51
+Event_t53 Before Event_t52
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t53------
+Events 
+------ EXPLANATION = Events Event_t53------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t54------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t54------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t54------
+iItem2_t34 Overlap Event_t51
+iDoor10_t45 Overlap Event_t54
+Event_t54 Before Event_t53
+iDoor10_t45 Overlap Event_t53
+Event_t52 Before Event_t51
+iDoor10_t44 Overlap Event_t52
+Event_t53 Before Event_t52
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t54------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t55------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t55------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t55------
+iItem2_t34 Overlap Event_t52
+iDoor10_t44 Overlap Event_t53
+iDoor10_t45 Overlap Event_t54
+Event_t54 Before Event_t53
+Event_t55 Before Event_t54
+iDoor10_t45 Overlap Event_t55
+Event_t53 Before Event_t52
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t55------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t56------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t56------
+Situation 
+------ EXPLANATION = Situation Event_t56------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t56------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t56------
+iDoor10_t44 Overlap Event_t54
+iItem2_t34 Overlap Event_t53
+Event_t54 Before Event_t53
+Event_t56 Before Event_t55
+Event_t55 Before Event_t54
+iDoor10_t45 Overlap Event_t56
+iDoor10_t45 Overlap Event_t55
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t56------
+Events 
+------ EXPLANATION = Events Event_t56------
+ 
+Context? UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t57------
+iItem6_t36 Overlap Event_t55
+Event_t57 Before Event_t56
+Event_t56 Before Event_t55
+iPIR17_t55 Overlap Event_t55
+iItem6_t57 Overlap Event_t57
+NEW SITUATION: UtenteRiempeDispenser-----------------------------------------------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t57------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t57------
+iDoor10_t45 Overlap Event_t57
+Event_t57 Before Event_t56
+iDoor10_t44 Overlap Event_t55
+Event_t56 Before Event_t55
+Event_t55 Before Event_t54
+iDoor10_t45 Overlap Event_t56
+iItem2_t34 Overlap Event_t54
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t57------
+ 
+Context? UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t58------
+Event_t58 Before Event_t57
+Event_t57 Before Event_t56
+iItem6_t36 Overlap Event_t56
+iPIR17_t56 Overlap Event_t56
+iItem6_t57 Overlap Event_t58
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t58------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t58------
+iDoor10_t45 Overlap Event_t57
+Event_t58 Before Event_t57
+Event_t57 Before Event_t56
+iDoor10_t45 Overlap Event_t58
+Event_t56 Before Event_t55
+iDoor10_t44 Overlap Event_t56
+iItem2_t34 Overlap Event_t55
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t58------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t58------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t59------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t59------
+Event_t58 Before Event_t57
+Event_t57 Before Event_t56
+iItem6_t36 Overlap Event_t56
+iItem6_t57 Overlap Event_t59
+iPIR17_t56 Overlap Event_t56
+Event_t59 Before Event_t58
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t59------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t59------
+Event_t58 Before Event_t57
+iDoor10_t45 Overlap Event_t59
+Event_t57 Before Event_t56
+iDoor10_t45 Overlap Event_t58
+iItem2_t34 Overlap Event_t56
+iDoor10_t44 Overlap Event_t57
+Event_t59 Before Event_t58
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t59------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t59------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t60------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t60------
+iItem6_t57 Overlap Event_t60
+iItem6_t36 Overlap Event_t59
+iPIR17_t59 Overlap Event_t59
+Event_t60 Before Event_t59
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t60------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t60------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t60------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t60------
+Event_t58 Before Event_t57
+iDoor10_t45 Overlap Event_t59
+iItem2_t34 Overlap Event_t57
+iDoor10_t44 Overlap Event_t58
+Event_t60 Before Event_t59
+Event_t59 Before Event_t58
+iDoor10_t45 Overlap Event_t60
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t60------
+ 
+Context? UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t61------
+Event_t61 Before Event_t60
+iItem6_t36 Overlap Event_t59
+iPIR17_t59 Overlap Event_t59
+iItem6_t57 Overlap Event_t61
+Event_t60 Before Event_t59
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t61------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t61------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t61------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t61------
+Event_t57 Before Event_t56
+iDoor10_t44 Overlap Event_t57
+Event_t59 Before Event_t58
+iDoor10_t45 Overlap Event_t61
+Event_t58 Before Event_t57
+iDoor10_t45 Overlap Event_t59
+iItem2_t34 Overlap Event_t56
+Event_t61 Before Event_t60
+Event_t60 Before Event_t59
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t61------
+ 
+Context? UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t62------
+Event_t61 Before Event_t60
+Event_t62 Before Event_t61
+iItem6_t36 Overlap Event_t60
+iPIR17_t59 Overlap Event_t60
+iItem6_t57 Overlap Event_t62
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t62------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t62------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t62------
+Event_t61 Before Event_t60
+Event_t62 Before Event_t61
+iDoor10_t44 Overlap Event_t60
+iItem2_t34 Overlap Event_t59
+Event_t60 Before Event_t59
+iDoor10_t45 Overlap Event_t62
+iDoor10_t45 Overlap Event_t61
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t62------
+ 
+Context? UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t63------
+Event_t63 Before Event_t62
+Event_t61 Before Event_t60
+Event_t62 Before Event_t61
+iItem6_t57 Overlap Event_t63
+iItem6_t36 Overlap Event_t60
+iPIR17_t59 Overlap Event_t60
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t63------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t63------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t63------
+Event_t63 Before Event_t62
+Event_t61 Before Event_t60
+Event_t62 Before Event_t61
+iDoor10_t45 Overlap Event_t63
+iDoor10_t45 Overlap Event_t62
+iItem2_t34 Overlap Event_t60
+iDoor10_t44 Overlap Event_t61
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t63------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t63------
+ 
+Context? UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t64------
+Event_t58 Before Event_t57
+Event_t57 Before Event_t56
+Event_t64 Before Event_t63
+iItem6_t36 Overlap Event_t56
+Event_t63 Before Event_t62
+iPIR17_t56 Overlap Event_t56
+Event_t61 Before Event_t60
+iItem6_t57 Overlap Event_t64
+Event_t62 Before Event_t61
+Event_t60 Before Event_t59
+Event_t59 Before Event_t58
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t64------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t64------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t64------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t64------
+iItem2_t34 Overlap Event_t61
+Event_t64 Before Event_t63
+Event_t63 Before Event_t62
+Event_t62 Before Event_t61
+iDoor10_t45 Overlap Event_t63
+iDoor10_t44 Overlap Event_t62
+iDoor10_t45 Overlap Event_t64
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t64------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t64------
+ 
+Context? UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t65------
+Event_t64 Before Event_t63
+iItem6_t57 Overlap Event_t65
+Event_t63 Before Event_t62
+Event_t65 Before Event_t64
+Event_t61 Before Event_t60
+Event_t62 Before Event_t61
+iItem6_t36 Overlap Event_t59
+iPIR17_t59 Overlap Event_t59
+Event_t60 Before Event_t59
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t65------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t65------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t65------
+iDoor10_t45 Overlap Event_t65
+Event_t64 Before Event_t63
+Event_t63 Before Event_t62
+Event_t65 Before Event_t64
+iDoor10_t44 Overlap Event_t63
+iDoor10_t45 Overlap Event_t64
+iItem2_t34 Overlap Event_t62
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t65------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t65------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t65------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t66------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t66------
+iItem6_t57 Overlap Event_t66
+Event_t64 Before Event_t63
+Event_t63 Before Event_t62
+Event_t65 Before Event_t64
+Event_t61 Before Event_t60
+Event_t66 Before Event_t65
+Event_t62 Before Event_t61
+iItem6_t36 Overlap Event_t59
+iPIR17_t59 Overlap Event_t59
+Event_t60 Before Event_t59
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t66------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t66------
+iDoor10_t45 Overlap Event_t65
+iDoor10_t44 Overlap Event_t64
+Event_t64 Before Event_t63
+Event_t65 Before Event_t64
+iDoor10_t45 Overlap Event_t66
+Event_t66 Before Event_t65
+iItem2_t34 Overlap Event_t63
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t66------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t66------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t66------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t66------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t67------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t67------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t67------
+iItem6_t36 Overlap Event_t66
+iItem6_t57 Overlap Event_t67
+Event_t67 Before Event_t66
+iPIR17_t66 Overlap Event_t66
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t67------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t67------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t67------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t67------
+iDoor10_t44 Overlap Event_t65
+Event_t64 Before Event_t63
+Event_t67 Before Event_t66
+Event_t65 Before Event_t64
+iDoor10_t45 Overlap Event_t67
+iDoor10_t45 Overlap Event_t66
+Event_t66 Before Event_t65
+iItem2_t34 Overlap Event_t63
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t67------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t67------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t68------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t68------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t68------
+iItem6_t36 Overlap Event_t66
+Event_t68 Before Event_t67
+Event_t67 Before Event_t66
+iPIR17_t66 Overlap Event_t66
+iItem6_t57 Overlap Event_t68
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t68------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t68------
+Event_t68 Before Event_t67
+Event_t67 Before Event_t66
+iItem2_t34 Overlap Event_t65
+iDoor10_t45 Overlap Event_t68
+iDoor10_t45 Overlap Event_t67
+iDoor10_t44 Overlap Event_t66
+Event_t66 Before Event_t65
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t68------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t68------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t68------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t68------
+ 
+Context? UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t69------
+Event_t69 Before Event_t68
+iPIR17_t66 Overlap Event_t67
+Event_t68 Before Event_t67
+iItem6_t36 Overlap Event_t67
+iItem6_t57 Overlap Event_t69
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t69------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t69------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t69------
+Event_t69 Before Event_t68
+iDoor10_t45 Overlap Event_t69
+Event_t68 Before Event_t67
+Event_t67 Before Event_t66
+iDoor10_t44 Overlap Event_t67
+iDoor10_t45 Overlap Event_t68
+iItem2_t34 Overlap Event_t66
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t69------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t69------
+ 
+Context? UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t70------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t70------
+Event_t69 Before Event_t68
+iItem6_t36 Overlap Event_t68
+iPIR17_t66 Overlap Event_t68
+iItem6_t57 Overlap Event_t70
+Event_t70 Before Event_t69
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t70------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t70------
+Event_t69 Before Event_t68
+iDoor10_t45 Overlap Event_t70
+Event_t68 Before Event_t67
+Event_t67 Before Event_t66
+iDoor10_t45 Overlap Event_t68
+Event_t66 Before Event_t65
+iDoor10_t44 Overlap Event_t65
+Event_t65 Before Event_t64
+iItem2_t34 Overlap Event_t64
+Event_t70 Before Event_t69
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t70------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t70------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t70------
+ 
+Context? UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t71------
+Event_t69 Before Event_t68
+iPIR17_t66 Overlap Event_t67
+Event_t68 Before Event_t67
+iItem6_t36 Overlap Event_t67
+Event_t71 Before Event_t70
+Event_t70 Before Event_t69
+iItem6_t57 Overlap Event_t71
+UtenteVicinoPianta 
+------ EXPLANATION = UtenteVicinoPianta Event_t71------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t71------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t71------
+iDoor10_t44 Overlap Event_t69
+Event_t69 Before Event_t68
+iDoor10_t45 Overlap Event_t70
+iDoor10_t45 Overlap Event_t71
+Event_t71 Before Event_t70
+iItem2_t34 Overlap Event_t68
+Event_t70 Before Event_t69
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t71------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t71------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t71------
+ 
+Context? UtenteCentroStanza 
+------ EXPLANATION = UtenteCentroStanza Event_t72------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t72------
+Event_t72 Before Event_t71
+Event_t69 Before Event_t68
+iItem6_t36 Overlap Event_t68
+Event_t71 Before Event_t70
+iPIR17_t66 Overlap Event_t68
+iItem6_t57 Overlap Event_t72
+Event_t70 Before Event_t69
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t72------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t72------
+Event_t72 Before Event_t71
+Event_t69 Before Event_t68
+iDoor10_t45 Overlap Event_t71
+Event_t71 Before Event_t70
+iItem2_t34 Overlap Event_t68
+Event_t70 Before Event_t69
+iDoor10_t44 Overlap Event_t70
+iDoor10_t45 Overlap Event_t72
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t72------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t72------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t72------
+ 
+Context? UtentePulisceCasa 
+------ EXPLANATION = UtentePulisceCasa Event_t73------
+iPIR3_t73 Overlap Event_t73
+Event_t69 Before Event_t68
+Event_t68 Before Event_t67
+Event_t67 Before Event_t66
+Event_t66 Before Event_t65
+iDoor11_t64 Overlap Event_t65
+Event_t72 Before Event_t71
+iPIR6_t72 Overlap Event_t72
+Event_t71 Before Event_t70
+iPIR51_t63 Overlap Event_t66
+Event_t70 Before Event_t69
+Event_t73 Before Event_t72
+NEW SITUATION: UtentePulisceCasa-----------------------------------------------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t73------
+iItem6_t36 Overlap Event_t66
+Event_t72 Before Event_t71
+Event_t69 Before Event_t68
+Event_t68 Before Event_t67
+Event_t67 Before Event_t66
+Event_t71 Before Event_t70
+iPIR17_t66 Overlap Event_t66
+iItem6_t57 Overlap Event_t73
+Event_t70 Before Event_t69
+Event_t73 Before Event_t72
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t73------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t73------
+Event_t72 Before Event_t71
+Event_t71 Before Event_t70
+iDoor10_t44 Overlap Event_t71
+iDoor10_t45 Overlap Event_t73
+Event_t73 Before Event_t72
+iItem2_t34 Overlap Event_t70
+iDoor10_t45 Overlap Event_t72
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t73------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t73------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t73------
+ 
+Context? UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t74------
+iItem6_t36 Overlap Event_t66
+Event_t72 Before Event_t71
+Event_t69 Before Event_t68
+Event_t68 Before Event_t67
+Event_t67 Before Event_t66
+Event_t71 Before Event_t70
+iPIR17_t66 Overlap Event_t66
+Event_t74 Before Event_t73
+Event_t70 Before Event_t69
+iItem6_t57 Overlap Event_t74
+Event_t73 Before Event_t72
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t74------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t74------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t74------
+Event_t72 Before Event_t71
+iDoor10_t44 Overlap Event_t72
+iDoor10_t45 Overlap Event_t74
+Event_t74 Before Event_t73
+iItem2_t34 Overlap Event_t71
+iDoor10_t45 Overlap Event_t73
+Event_t73 Before Event_t72
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t74------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t74------
+ 
+Context? UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t75------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t75------
+Event_t72 Before Event_t71
+Event_t69 Before Event_t68
+iItem6_t36 Overlap Event_t68
+Event_t71 Before Event_t70
+iPIR17_t66 Overlap Event_t68
+iItem6_t57 Overlap Event_t75
+Event_t74 Before Event_t73
+Event_t70 Before Event_t69
+Event_t73 Before Event_t72
+Event_t75 Before Event_t74
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t75------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t75------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t75------
+iDoor10_t44 Overlap Event_t73
+iItem2_t34 Overlap Event_t72
+iDoor10_t45 Overlap Event_t75
+iDoor10_t45 Overlap Event_t74
+Event_t74 Before Event_t73
+Event_t73 Before Event_t72
+Event_t75 Before Event_t74
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t75------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t75------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t76------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t76------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t76------
+Event_t72 Before Event_t71
+Event_t69 Before Event_t68
+iItem6_t57 Overlap Event_t76
+iItem6_t36 Overlap Event_t68
+Event_t71 Before Event_t70
+iPIR17_t66 Overlap Event_t68
+Event_t74 Before Event_t73
+Event_t70 Before Event_t69
+Event_t73 Before Event_t72
+Event_t75 Before Event_t74
+Event_t76 Before Event_t75
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t76------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t76------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t76------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t76------
+iItem2_t34 Overlap Event_t73
+iDoor10_t45 Overlap Event_t75
+iDoor10_t45 Overlap Event_t76
+Event_t74 Before Event_t73
+iDoor10_t44 Overlap Event_t74
+Event_t75 Before Event_t74
+Event_t76 Before Event_t75
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t76------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t76------
+Events 
+------ EXPLANATION = Events Event_t76------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t77------
+Situation 
+------ EXPLANATION = Situation Event_t77------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t77------
+iItem6_t57 Overlap Event_t77
+Event_t77 Before Event_t76
+Event_t69 Before Event_t68
+Event_t68 Before Event_t67
+Event_t67 Before Event_t66
+iPIR17_t66 Overlap Event_t66
+Event_t74 Before Event_t73
+iItem6_t36 Overlap Event_t66
+Event_t72 Before Event_t71
+Event_t71 Before Event_t70
+Event_t70 Before Event_t69
+Event_t73 Before Event_t72
+Event_t75 Before Event_t74
+Event_t76 Before Event_t75
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t77------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t77------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t77------
+iDoor10_t44 Overlap Event_t75
+Event_t77 Before Event_t76
+iItem2_t34 Overlap Event_t74
+iDoor10_t45 Overlap Event_t76
+iDoor10_t45 Overlap Event_t77
+Event_t75 Before Event_t74
+Event_t76 Before Event_t75
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t77------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t77------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t77------
+Events 
+------ EXPLANATION = Events Event_t77------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t78------
+Situation 
+------ EXPLANATION = Situation Event_t78------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t78------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t78------
+Event_t77 Before Event_t76
+Event_t69 Before Event_t68
+Event_t68 Before Event_t67
+Event_t67 Before Event_t66
+iPIR17_t66 Overlap Event_t66
+Event_t74 Before Event_t73
+iItem6_t36 Overlap Event_t66
+iItem6_t57 Overlap Event_t78
+Event_t72 Before Event_t71
+Event_t78 Before Event_t77
+Event_t71 Before Event_t70
+Event_t70 Before Event_t69
+Event_t73 Before Event_t72
+Event_t75 Before Event_t74
+Event_t76 Before Event_t75
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t78------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t78------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t78------
+Event_t77 Before Event_t76
+iDoor10_t44 Overlap Event_t76
+iItem2_t34 Overlap Event_t75
+Event_t78 Before Event_t77
+iDoor10_t45 Overlap Event_t77
+iDoor10_t45 Overlap Event_t78
+Event_t76 Before Event_t75
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t78------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t78------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t78------
+Events 
+------ EXPLANATION = Events Event_t78------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t79------
+Situation 
+------ EXPLANATION = Situation Event_t79------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t79------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t79------
+Event_t79 Before Event_t78
+iItem6_t57 Overlap Event_t79
+Event_t77 Before Event_t76
+Event_t69 Before Event_t68
+Event_t68 Before Event_t67
+Event_t67 Before Event_t66
+iPIR17_t66 Overlap Event_t66
+Event_t74 Before Event_t73
+iItem6_t36 Overlap Event_t66
+Event_t72 Before Event_t71
+Event_t78 Before Event_t77
+Event_t71 Before Event_t70
+Event_t70 Before Event_t69
+Event_t73 Before Event_t72
+Event_t75 Before Event_t74
+Event_t76 Before Event_t75
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t79------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t79------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t79------
+Event_t79 Before Event_t78
+Event_t77 Before Event_t76
+Event_t78 Before Event_t77
+iItem2_t34 Overlap Event_t76
+iDoor10_t45 Overlap Event_t79
+iDoor10_t77 Overlap Event_t77
+iDoor10_t45 Overlap Event_t78
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t79------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t79------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t79------
+Events 
+------ EXPLANATION = Events Event_t79------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t80------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t80------
+Situation 
+------ EXPLANATION = Situation Event_t80------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t80------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t80------
+Event_t79 Before Event_t78
+Event_t77 Before Event_t76
+Event_t69 Before Event_t68
+Event_t80 Before Event_t79
+Event_t74 Before Event_t73
+Event_t72 Before Event_t71
+iItem6_t57 Overlap Event_t80
+Event_t78 Before Event_t77
+iItem6_t36 Overlap Event_t68
+Event_t71 Before Event_t70
+iPIR17_t66 Overlap Event_t68
+Event_t70 Before Event_t69
+Event_t73 Before Event_t72
+Event_t75 Before Event_t74
+Event_t76 Before Event_t75
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t80------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t80------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t80------
+Event_t79 Before Event_t78
+Event_t77 Before Event_t76
+Event_t80 Before Event_t79
+Event_t78 Before Event_t77
+iItem2_t34 Overlap Event_t76
+iDoor10_t77 Overlap Event_t77
+iDoor10_t45 Overlap Event_t80
+iDoor10_t45 Overlap Event_t78
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t80------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t80------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t80------
+Events 
+------ EXPLANATION = Events Event_t80------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t81------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t81------
+Situation 
+------ EXPLANATION = Situation Event_t81------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t81------
+iPIR17_t80 Overlap Event_t80
+iItem6_t57 Overlap Event_t81
+iItem6_t36 Overlap Event_t80
+Event_t81 Before Event_t80
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t81------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t81------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t81------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t81------
+Event_t79 Before Event_t78
+Event_t80 Before Event_t79
+iItem2_t34 Overlap Event_t78
+iDoor10_t81 Overlap Event_t81
+iDoor10_t45 Overlap Event_t80
+Event_t81 Before Event_t80
+iDoor10_t77 Overlap Event_t79
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t81------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t81------
+Events 
+------ EXPLANATION = Events Event_t81------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t82------
+Situation 
+------ EXPLANATION = Situation Event_t82------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t82------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t82------
+iItem6_t57 Overlap Event_t82
+iItem6_t36 Overlap Event_t81
+iPIR17_t80 Overlap Event_t81
+Event_t82 Before Event_t81
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t82------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t82------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t82------
+Event_t80 Before Event_t79
+iDoor10_t81 Overlap Event_t81
+iItem2_t34 Overlap Event_t79
+Event_t81 Before Event_t80
+iDoor10_t81 Overlap Event_t82
+iDoor10_t77 Overlap Event_t80
+Event_t82 Before Event_t81
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t82------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t82------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t82------
+Events 
+------ EXPLANATION = Events Event_t82------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t83------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t83------
+Situation 
+------ EXPLANATION = Situation Event_t83------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t83------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t83------
+iItem6_t36 Overlap Event_t81
+Event_t83 Before Event_t82
+iItem6_t57 Overlap Event_t83
+iPIR17_t80 Overlap Event_t81
+Event_t82 Before Event_t81
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t83------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t83------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t83------
+Event_t80 Before Event_t79
+iDoor10_t45 Overlap Event_t82
+iDoor10_t44 Overlap Event_t81
+iItem2_t34 Overlap Event_t79
+Event_t83 Before Event_t82
+Event_t81 Before Event_t80
+iDoor10_t45 Overlap Event_t83
+Event_t82 Before Event_t81
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t83------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t83------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t83------
+Events 
+------ EXPLANATION = Events Event_t83------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t84------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t84------
+Situation 
+------ EXPLANATION = Situation Event_t84------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t84------
+iItem6_t36 Overlap Event_t83
+Event_t84 Before Event_t83
+iItem6_t57 Overlap Event_t84
+iPIR17_t83 Overlap Event_t83
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t84------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t84------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t84------
+iDoor10_t44 Overlap Event_t82
+Event_t84 Before Event_t83
+Event_t83 Before Event_t82
+iItem2_t34 Overlap Event_t81
+iDoor10_t45 Overlap Event_t83
+iDoor10_t81 Overlap Event_t84
+Event_t82 Before Event_t81
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t84------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t84------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t84------
+Events 
+------ EXPLANATION = Events Event_t84------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t85------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t85------
+Situation 
+------ EXPLANATION = Situation Event_t85------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t85------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t85------
+iItem6_t36 Overlap Event_t83
+Event_t85 Before Event_t84
+Event_t84 Before Event_t83
+iItem6_t57 Overlap Event_t85
+iPIR17_t83 Overlap Event_t83
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t85------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t85------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t85------
+Event_t85 Before Event_t84
+Event_t84 Before Event_t83
+iDoor10_t77 Overlap Event_t82
+Event_t83 Before Event_t82
+iItem2_t34 Overlap Event_t81
+iDoor10_t81 Overlap Event_t85
+iDoor10_t81 Overlap Event_t84
+Event_t82 Before Event_t81
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t85------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t85------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t85------
+Events 
+------ EXPLANATION = Events Event_t85------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t86------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t86------
+Situation 
+------ EXPLANATION = Situation Event_t86------
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t86------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t86------
+Event_t85 Before Event_t84
+iItem6_t57 Overlap Event_t86
+Event_t86 Before Event_t85
+iPIR17_t84 Overlap Event_t84
+iItem6_t36 Overlap Event_t84
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t86------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t86------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t86------
+iDoor10_t77 Overlap Event_t84
+Event_t85 Before Event_t84
+Event_t84 Before Event_t83
+iItem2_t34 Overlap Event_t83
+Event_t86 Before Event_t85
+iDoor10_t81 Overlap Event_t85
+iDoor10_t81 Overlap Event_t86
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t86------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t86------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t86------
+Events 
+------ EXPLANATION = Events Event_t86------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t87------
+UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t87------
+Situation 
+------ EXPLANATION = Situation Event_t87------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t87------
+Event_t87 Before Event_t86
+iPIR17_t86 Overlap Event_t86
+iItem6_t57 Overlap Event_t87
+iItem6_t36 Overlap Event_t86
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t87------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t87------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t87------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t87------
+Event_t87 Before Event_t86
+Event_t85 Before Event_t84
+iDoor10_t77 Overlap Event_t85
+Event_t86 Before Event_t85
+iDoor10_t81 Overlap Event_t87
+iItem2_t34 Overlap Event_t84
+iDoor10_t81 Overlap Event_t86
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t87------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t87------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t87------
+Events 
+------ EXPLANATION = Events Event_t87------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t88------
+Situation 
+------ EXPLANATION = Situation Event_t88------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t88------
+Event_t87 Before Event_t86
+iPIR17_t86 Overlap Event_t86
+Event_t88 Before Event_t87
+iItem6_t57 Overlap Event_t88
+iItem6_t36 Overlap Event_t86
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t88------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t88------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t88------
+Event_t87 Before Event_t86
+Event_t85 Before Event_t84
+iDoor10_t45 Overlap Event_t88
+Event_t88 Before Event_t87
+Event_t86 Before Event_t85
+iDoor10_t81 Overlap Event_t86
+iDoor10_t77 Overlap Event_t85
+iItem2_t34 Overlap Event_t84
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t88------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t88------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t88------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t88------
+Events 
+------ EXPLANATION = Events Event_t88------
+ 
+Context? Context 
+------ EXPLANATION = Context Event_t89------
+Situation 
+------ EXPLANATION = Situation Event_t89------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t89------
+iItem6_t36 Overlap Event_t87
+iPIR17_t86 Overlap Event_t87
+Event_t89 Before Event_t88
+Event_t88 Before Event_t87
+iItem6_t57 Overlap Event_t89
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t89------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t89------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t89------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t89------
+Event_t87 Before Event_t86
+iDoor10_t81 Overlap Event_t88
+iItem2_t34 Overlap Event_t86
+Event_t89 Before Event_t88
+Event_t88 Before Event_t87
+iDoor10_t77 Overlap Event_t87
+iDoor10_t45 Overlap Event_t89
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t89------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t89------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t89------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t89------
+Events 
+------ EXPLANATION = Events Event_t89------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t90------
+iPhone1_t76 Overlap Event_t87
+Event_t90 Before Event_t89
+Event_t87 Before Event_t86
+iPhone1_t90 Overlap Event_t90
+Event_t89 Before Event_t88
+Event_t88 Before Event_t87
+iPIR14_t85 Overlap Event_t86
+NEW SITUATION: UtenteHaTelefonato-----------------------------------------------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t90------
+Event_t90 Before Event_t89
+Event_t87 Before Event_t86
+iPIR17_t86 Overlap Event_t86
+Event_t89 Before Event_t88
+Event_t88 Before Event_t87
+iItem6_t36 Overlap Event_t86
+iItem6_t57 Overlap Event_t90
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t90------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t90------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t90------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t90------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t90------
+Event_t90 Before Event_t89
+Event_t87 Before Event_t86
+iItem2_t34 Overlap Event_t86
+Event_t89 Before Event_t88
+Event_t88 Before Event_t87
+iDoor10_t77 Overlap Event_t87
+iDoor10_t45 Overlap Event_t89
+iDoor10_t45 Overlap Event_t90
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t90------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t90------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t90------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t91------
+UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t91------
+Event_t90 Before Event_t89
+Event_t87 Before Event_t86
+iPhone1_t90 Overlap Event_t91
+iPhone1_t76 Overlap Event_t86
+Event_t89 Before Event_t88
+Event_t88 Before Event_t87
+Event_t86 Before Event_t85
+Event_t91 Before Event_t90
+iPIR14_t85 Overlap Event_t85
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t91------
+Event_t90 Before Event_t89
+iItem6_t36 Overlap Event_t87
+iItem6_t57 Overlap Event_t91
+iPIR17_t86 Overlap Event_t87
+Event_t89 Before Event_t88
+Event_t88 Before Event_t87
+Event_t91 Before Event_t90
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t91------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t91------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t91------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t91------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t91------
+iItem2_t34 Overlap Event_t88
+Event_t90 Before Event_t89
+Event_t89 Before Event_t88
+Event_t91 Before Event_t90
+iDoor10_t77 Overlap Event_t89
+iDoor10_t81 Overlap Event_t91
+iDoor10_t45 Overlap Event_t90
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t91------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t91------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t91------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t92------
+UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t92------
+Event_t90 Before Event_t89
+Event_t87 Before Event_t86
+iPhone1_t76 Overlap Event_t91
+Event_t92 Before Event_t91
+Event_t89 Before Event_t88
+Event_t88 Before Event_t87
+Event_t91 Before Event_t90
+iPhone1_t90 Overlap Event_t92
+iPIR14_t85 Overlap Event_t86
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t92------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t92------
+iItem6_t36 Overlap Event_t91
+Event_t92 Before Event_t91
+iPIR17_t91 Overlap Event_t91
+iItem6_t57 Overlap Event_t92
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t92------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t92------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t92------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t92------
+Event_t90 Before Event_t89
+iItem2_t34 Overlap Event_t89
+iDoor10_t77 Overlap Event_t90
+Event_t92 Before Event_t91
+Event_t91 Before Event_t90
+iDoor10_t81 Overlap Event_t92
+iDoor10_t81 Overlap Event_t91
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t92------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t92------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t92------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t93------
+Event_t90 Before Event_t89
+Event_t87 Before Event_t86
+iPhone1_t76 Overlap Event_t91
+Event_t93 Before Event_t92
+Event_t92 Before Event_t91
+Event_t89 Before Event_t88
+Event_t88 Before Event_t87
+Event_t91 Before Event_t90
+iPIR14_t85 Overlap Event_t86
+iPhone1_t90 Overlap Event_t93
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t93------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t93------
+iItem6_t36 Overlap Event_t91
+Event_t93 Before Event_t92
+Event_t92 Before Event_t91
+iItem6_t57 Overlap Event_t93
+iPIR17_t91 Overlap Event_t91
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t93------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t93------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t93------
+iItem2_t34 Overlap Event_t90
+iDoor10_t81 Overlap Event_t93
+Event_t93 Before Event_t92
+Event_t92 Before Event_t91
+Event_t91 Before Event_t90
+iDoor10_t77 Overlap Event_t91
+iDoor10_t81 Overlap Event_t92
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t93------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t93------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t93------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t94------
+iPhone1_t76 Overlap Event_t93
+Event_t93 Before Event_t92
+iPhone1_t90 Overlap Event_t94
+Event_t94 Before Event_t93
+iPIR14_t92 Overlap Event_t92
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t94------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t94------
+iPIR17_t91 Overlap Event_t92
+iItem6_t57 Overlap Event_t94
+Event_t93 Before Event_t92
+Event_t94 Before Event_t93
+iItem6_t36 Overlap Event_t92
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t94------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t94------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t94------
+iDoor10_t81 Overlap Event_t93
+Event_t90 Before Event_t89
+iItem2_t34 Overlap Event_t89
+Event_t93 Before Event_t92
+Event_t92 Before Event_t91
+Event_t91 Before Event_t90
+Event_t94 Before Event_t93
+iDoor10_t81 Overlap Event_t94
+iDoor10_t77 Overlap Event_t92
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t94------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t94------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t94------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t95------
+Event_t95 Before Event_t94
+iPhone1_t90 Overlap Event_t95
+iPIR14_t92 Overlap Event_t93
+iPhone1_t76 Overlap Event_t94
+Event_t94 Before Event_t93
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t95------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t95------
+Event_t95 Before Event_t94
+iItem6_t57 Overlap Event_t95
+iItem6_t36 Overlap Event_t91
+Event_t93 Before Event_t92
+Event_t92 Before Event_t91
+iPIR17_t91 Overlap Event_t91
+Event_t94 Before Event_t93
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t95------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t95------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t95------
+Event_t95 Before Event_t94
+Event_t93 Before Event_t92
+Event_t92 Before Event_t91
+Event_t94 Before Event_t93
+iDoor10_t45 Overlap Event_t95
+iDoor10_t81 Overlap Event_t94
+iDoor10_t44 Overlap Event_t93
+iItem2_t34 Overlap Event_t91
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t95------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t95------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t95------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t95------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t96------
+UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t96------
+Event_t95 Before Event_t94
+iPhone1_t90 Overlap Event_t96
+Event_t96 Before Event_t95
+iPhone1_t76 Overlap Event_t95
+iPIR14_t94 Overlap Event_t94
+UtenteVicinoTelefono 
+------ EXPLANATION = UtenteVicinoTelefono Event_t96------
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t96------
+Event_t95 Before Event_t94
+iPIR17_t91 Overlap Event_t92
+iItem6_t57 Overlap Event_t96
+Event_t93 Before Event_t92
+Event_t94 Before Event_t93
+Event_t96 Before Event_t95
+iItem6_t36 Overlap Event_t92
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t96------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t96------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t96------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t96------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t96------
+Event_t95 Before Event_t94
+Event_t93 Before Event_t92
+iDoor10_t44 Overlap Event_t94
+Event_t94 Before Event_t93
+iDoor10_t81 Overlap Event_t96
+iDoor10_t45 Overlap Event_t95
+iItem2_t34 Overlap Event_t92
+Event_t96 Before Event_t95
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t96------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t96------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t97------
+UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t97------
+iPIR14_t94 Overlap Event_t95
+Event_t97 Before Event_t96
+iPhone1_t76 Overlap Event_t96
+Event_t96 Before Event_t95
+iPhone1_t90 Overlap Event_t97
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t97------
+iPIR17_t96 Overlap Event_t96
+Event_t97 Before Event_t96
+iItem6_t57 Overlap Event_t97
+iItem6_t36 Overlap Event_t96
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t97------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t97------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t97------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t97------
+iItem2_t34 Overlap Event_t94
+Event_t95 Before Event_t94
+Event_t97 Before Event_t96
+iDoor10_t45 Overlap Event_t96
+iDoor10_t45 Overlap Event_t97
+Event_t96 Before Event_t95
+iDoor10_t77 Overlap Event_t95
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t97------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t97------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t97------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t97------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t98------
+Event_t98 Before Event_t97
+iPhone1_t90 Overlap Event_t98
+iPIR14_t94 Overlap Event_t96
+Event_t97 Before Event_t96
+iPhone1_t76 Overlap Event_t97
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t98------
+Event_t98 Before Event_t97
+iPIR17_t96 Overlap Event_t96
+Event_t97 Before Event_t96
+iItem6_t57 Overlap Event_t98
+iItem6_t36 Overlap Event_t96
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t98------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t98------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t98------
+Event_t98 Before Event_t97
+iItem2_t34 Overlap Event_t95
+Event_t97 Before Event_t96
+iDoor10_t81 Overlap Event_t98
+iDoor10_t77 Overlap Event_t96
+Event_t96 Before Event_t95
+iDoor10_t81 Overlap Event_t97
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t98------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t98------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t98------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t98------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t99------
+Event_t98 Before Event_t97
+iPIR14_t94 Overlap Event_t96
+iPhone1_t90 Overlap Event_t99
+iPhone1_t76 Overlap Event_t98
+Event_t97 Before Event_t96
+Event_t99 Before Event_t98
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t99------
+Event_t98 Before Event_t97
+iItem6_t57 Overlap Event_t99
+iPIR17_t96 Overlap Event_t97
+iItem6_t36 Overlap Event_t97
+Event_t99 Before Event_t98
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t99------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t99------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t99------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t99------
+iDoor10_t77 Overlap Event_t97
+Event_t98 Before Event_t97
+iDoor10_t45 Overlap Event_t99
+Event_t97 Before Event_t96
+iItem2_t34 Overlap Event_t96
+iDoor10_t81 Overlap Event_t98
+Event_t99 Before Event_t98
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t99------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t99------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t99------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t99------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t100------
+iPIR14_t94 Overlap Event_t95
+iPhone1_t90 Overlap Event_t100
+Event_t98 Before Event_t97
+Event_t97 Before Event_t96
+iPhone1_t76 Overlap Event_t99
+Event_t99 Before Event_t98
+Event_t96 Before Event_t95
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t100------
+Event_t98 Before Event_t97
+iPIR17_t96 Overlap Event_t96
+Event_t97 Before Event_t96
+iItem6_t36 Overlap Event_t96
+Event_t99 Before Event_t98
+Event_t100 Before Event_t99
+iItem6_t57 Overlap Event_t100
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t100------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t100------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t100------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t100------
+Event_t98 Before Event_t97
+iDoor10_t45 Overlap Event_t99
+iDoor10_t44 Overlap Event_t98
+iDoor10_t45 Overlap Event_t100
+iItem2_t34 Overlap Event_t97
+Event_t99 Before Event_t98
+Event_t100 Before Event_t99
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t100------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t100------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t100------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t101------
+iPIR14_t94 Overlap Event_t95
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+iPhone1_t90 Overlap Event_t101
+Event_t97 Before Event_t96
+iPhone1_t76 Overlap Event_t99
+Event_t99 Before Event_t98
+Event_t96 Before Event_t95
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t101------
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+iPIR17_t96 Overlap Event_t97
+iItem6_t36 Overlap Event_t97
+Event_t99 Before Event_t98
+iItem6_t57 Overlap Event_t101
+Event_t100 Before Event_t99
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t101------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t101------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t101------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t101------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t101------
+iDoor10_t77 Overlap Event_t99
+Event_t101 Before Event_t100
+iItem2_t34 Overlap Event_t98
+iDoor10_t45 Overlap Event_t100
+iDoor10_t45 Overlap Event_t101
+Event_t99 Before Event_t98
+Event_t100 Before Event_t99
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t101------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t101------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t101------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t102------
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+Event_t102 Before Event_t101
+iPIR14_t94 Overlap Event_t96
+iPhone1_t90 Overlap Event_t102
+Event_t97 Before Event_t96
+iPhone1_t76 Overlap Event_t99
+Event_t99 Before Event_t98
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t102------
+iItem6_t57 Overlap Event_t102
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+Event_t102 Before Event_t101
+iPIR17_t96 Overlap Event_t96
+Event_t97 Before Event_t96
+iItem6_t36 Overlap Event_t96
+Event_t99 Before Event_t98
+Event_t100 Before Event_t99
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t102------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t102------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t102------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t102------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t102------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t102------
+iItem2_t34 Overlap Event_t99
+Event_t101 Before Event_t100
+Event_t102 Before Event_t101
+iDoor10_t45 Overlap Event_t102
+iDoor10_t45 Overlap Event_t101
+iDoor10_t44 Overlap Event_t100
+Event_t100 Before Event_t99
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t102------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t102------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t103------
+UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t103------
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+iPIR14_t94 Overlap Event_t96
+Event_t97 Before Event_t96
+iPhone1_t76 Overlap Event_t99
+iPhone1_t90 Overlap Event_t103
+Event_t99 Before Event_t98
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t103------
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+iItem6_t57 Overlap Event_t103
+iPIR17_t96 Overlap Event_t96
+Event_t97 Before Event_t96
+iItem6_t36 Overlap Event_t96
+Event_t99 Before Event_t98
+Event_t100 Before Event_t99
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t103------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t103------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t103------
+iItem2_t34 Overlap Event_t100
+Event_t101 Before Event_t100
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+iDoor10_t45 Overlap Event_t102
+iDoor10_t45 Overlap Event_t103
+iDoor10_t77 Overlap Event_t101
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t103------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t103------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t103------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t104------
+UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t104------
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+iPIR14_t94 Overlap Event_t95
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+Event_t97 Before Event_t96
+iPhone1_t76 Overlap Event_t99
+Event_t104 Before Event_t103
+Event_t99 Before Event_t98
+iPhone1_t90 Overlap Event_t104
+Event_t96 Before Event_t95
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t104------
+iItem6_t57 Overlap Event_t104
+iItem6_t36 Overlap Event_t103
+Event_t104 Before Event_t103
+iPIR17_t103 Overlap Event_t103
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t104------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t104------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t104------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t104------
+iItem2_t34 Overlap Event_t100
+Event_t101 Before Event_t100
+iDoor10_t77 Overlap Event_t101
+iDoor10_t45 Overlap Event_t104
+Event_t103 Before Event_t102
+iDoor10_t81 Overlap Event_t102
+Event_t102 Before Event_t101
+Event_t104 Before Event_t103
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t104------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t104------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t105------
+UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t105------
+Event_t98 Before Event_t97
+Event_t101 Before Event_t100
+iPhone1_t76 Overlap Event_t98
+iPhone1_t90 Overlap Event_t105
+iPIR14_t94 Overlap Event_t95
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+Event_t97 Before Event_t96
+Event_t105 Before Event_t104
+Event_t104 Before Event_t103
+Event_t99 Before Event_t98
+Event_t96 Before Event_t95
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t105------
+iItem6_t36 Overlap Event_t104
+iPIR17_t104 Overlap Event_t104
+Event_t105 Before Event_t104
+iItem6_t57 Overlap Event_t105
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t105------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t105------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t105------
+iItem2_t34 Overlap Event_t100
+Event_t101 Before Event_t100
+iDoor10_t77 Overlap Event_t101
+iDoor10_t45 Overlap Event_t104
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+Event_t105 Before Event_t104
+Event_t104 Before Event_t103
+iDoor10_t81 Overlap Event_t105
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t105------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t105------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t105------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t106------
+UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t106------
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+Event_t106 Before Event_t105
+iPIR14_t94 Overlap Event_t95
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+iPhone1_t90 Overlap Event_t106
+Event_t97 Before Event_t96
+Event_t105 Before Event_t104
+iPhone1_t76 Overlap Event_t99
+Event_t104 Before Event_t103
+Event_t99 Before Event_t98
+Event_t96 Before Event_t95
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t106------
+iItem6_t36 Overlap Event_t104
+iPIR17_t104 Overlap Event_t104
+Event_t106 Before Event_t105
+Event_t105 Before Event_t104
+iItem6_t57 Overlap Event_t106
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t106------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t106------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t106------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t106------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t106------
+iDoor10_t81 Overlap Event_t106
+iDoor10_t77 Overlap Event_t104
+Event_t106 Before Event_t105
+Event_t105 Before Event_t104
+iItem2_t34 Overlap Event_t103
+Event_t104 Before Event_t103
+iDoor10_t81 Overlap Event_t105
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t106------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t106------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t107------
+UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t107------
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+iPIR14_t94 Overlap Event_t96
+iPhone1_t90 Overlap Event_t107
+Event_t106 Before Event_t105
+Event_t107 Before Event_t106
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+Event_t97 Before Event_t96
+Event_t105 Before Event_t104
+iPhone1_t76 Overlap Event_t99
+Event_t104 Before Event_t103
+Event_t99 Before Event_t98
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t107------
+iItem6_t57 Overlap Event_t107
+Event_t107 Before Event_t106
+iItem6_t36 Overlap Event_t106
+iPIR17_t105 Overlap Event_t106
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t107------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t107------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t107------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t107------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t107------
+iDoor10_t81 Overlap Event_t106
+Event_t106 Before Event_t105
+iItem2_t34 Overlap Event_t104
+Event_t105 Before Event_t104
+iDoor10_t77 Overlap Event_t105
+Event_t107 Before Event_t106
+iDoor10_t81 Overlap Event_t107
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t107------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t107------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t108------
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+iPIR14_t94 Overlap Event_t96
+Event_t106 Before Event_t105
+Event_t108 Before Event_t107
+Event_t107 Before Event_t106
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+iPhone1_t90 Overlap Event_t108
+Event_t97 Before Event_t96
+Event_t105 Before Event_t104
+iPhone1_t76 Overlap Event_t99
+Event_t104 Before Event_t103
+Event_t99 Before Event_t98
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t108------
+Event_t108 Before Event_t107
+iItem6_t57 Overlap Event_t108
+iItem6_t36 Overlap Event_t107
+iPIR17_t107 Overlap Event_t107
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t108------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t108------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t108------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t108------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t108------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t108------
+Event_t106 Before Event_t105
+iItem2_t34 Overlap Event_t104
+Event_t108 Before Event_t107
+Event_t107 Before Event_t106
+iDoor10_t77 Overlap Event_t106
+Event_t105 Before Event_t104
+iDoor10_t81 Overlap Event_t107
+iDoor10_t45 Overlap Event_t108
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t108------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t108------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t109------
+Event_t98 Before Event_t97
+Event_t101 Before Event_t100
+Event_t106 Before Event_t105
+Event_t108 Before Event_t107
+Event_t107 Before Event_t106
+Event_t109 Before Event_t108
+iPIR14_t94 Overlap Event_t95
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+iPhone1_t90 Overlap Event_t109
+Event_t97 Before Event_t96
+Event_t105 Before Event_t104
+iPhone1_t76 Overlap Event_t99
+Event_t104 Before Event_t103
+Event_t99 Before Event_t98
+Event_t96 Before Event_t95
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t109------
+Event_t108 Before Event_t107
+iItem6_t57 Overlap Event_t109
+Event_t109 Before Event_t108
+iItem6_t36 Overlap Event_t107
+iPIR17_t107 Overlap Event_t107
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t109------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t109------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t109------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t109------
+Event_t108 Before Event_t107
+iItem2_t34 Overlap Event_t106
+Event_t107 Before Event_t106
+iDoor10_t77 Overlap Event_t107
+iDoor10_t81 Overlap Event_t108
+Event_t109 Before Event_t108
+iDoor10_t45 Overlap Event_t109
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t109------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t109------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t109------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t109------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t110------
+Event_t98 Before Event_t97
+Event_t101 Before Event_t100
+Event_t110 Before Event_t109
+Event_t106 Before Event_t105
+Event_t108 Before Event_t107
+iPhone1_t90 Overlap Event_t110
+Event_t107 Before Event_t106
+Event_t109 Before Event_t108
+iPIR14_t94 Overlap Event_t95
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+Event_t97 Before Event_t96
+Event_t105 Before Event_t104
+iPhone1_t76 Overlap Event_t99
+Event_t104 Before Event_t103
+Event_t99 Before Event_t98
+Event_t96 Before Event_t95
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t110------
+iItem6_t57 Overlap Event_t110
+Event_t110 Before Event_t109
+Event_t108 Before Event_t107
+Event_t109 Before Event_t108
+iItem6_t36 Overlap Event_t107
+iPIR17_t107 Overlap Event_t107
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t110------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t110------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t110------
+Event_t110 Before Event_t109
+iDoor10_t77 Overlap Event_t108
+iDoor10_t81 Overlap Event_t109
+Event_t108 Before Event_t107
+iDoor10_t81 Overlap Event_t110
+Event_t109 Before Event_t108
+iItem2_t34 Overlap Event_t107
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t110------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t110------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t110------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t110------
+ 
+Context? UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t111------
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+Event_t111 Before Event_t110
+Event_t110 Before Event_t109
+Event_t106 Before Event_t105
+Event_t108 Before Event_t107
+iPhone1_t76 Overlap Event_t98
+Event_t107 Before Event_t106
+Event_t109 Before Event_t108
+iPIR14_t94 Overlap Event_t95
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+iPhone1_t90 Overlap Event_t111
+Event_t97 Before Event_t96
+Event_t105 Before Event_t104
+Event_t104 Before Event_t103
+Event_t99 Before Event_t98
+Event_t96 Before Event_t95
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t111------
+Event_t111 Before Event_t110
+Event_t110 Before Event_t109
+iItem6_t57 Overlap Event_t111
+Event_t108 Before Event_t107
+Event_t109 Before Event_t108
+iItem6_t36 Overlap Event_t107
+iPIR17_t107 Overlap Event_t107
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t111------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t111------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t111------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t111------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t111------
+Event_t111 Before Event_t110
+Event_t110 Before Event_t109
+iDoor10_t81 Overlap Event_t111
+Event_t108 Before Event_t107
+iItem2_t34 Overlap Event_t106
+Event_t107 Before Event_t106
+Event_t109 Before Event_t108
+iDoor10_t44 Overlap Event_t109
+iDoor10_t81 Overlap Event_t110
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t111------
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t111------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t111------
+ 
+Context? UtentePrendeIlDispenser 
+------ EXPLANATION = UtentePrendeIlDispenser Event_t112------
+UtenteHaTelefonato 
+------ EXPLANATION = UtenteHaTelefonato Event_t112------
+iPhone1_t90 Overlap Event_t112
+Event_t101 Before Event_t100
+Event_t98 Before Event_t97
+Event_t111 Before Event_t110
+Event_t110 Before Event_t109
+iPIR14_t94 Overlap Event_t96
+iPhone1_t76 Overlap Event_t111
+Event_t106 Before Event_t105
+Event_t108 Before Event_t107
+Event_t107 Before Event_t106
+Event_t109 Before Event_t108
+Event_t112 Before Event_t111
+Event_t103 Before Event_t102
+Event_t102 Before Event_t101
+Event_t97 Before Event_t96
+Event_t105 Before Event_t104
+Event_t104 Before Event_t103
+Event_t99 Before Event_t98
+Event_t100 Before Event_t99
+UtenteRiempeDispenser 
+------ EXPLANATION = UtenteRiempeDispenser Event_t112------
+Event_t111 Before Event_t110
+Event_t110 Before Event_t109
+iItem6_t57 Overlap Event_t112
+Event_t108 Before Event_t107
+Event_t109 Before Event_t108
+Event_t112 Before Event_t111
+iItem6_t36 Overlap Event_t107
+iPIR17_t107 Overlap Event_t107
+UtenteVicinoAlLavandino 
+------ EXPLANATION = UtenteVicinoAlLavandino Event_t112------
+MicroondeAperto 
+------ EXPLANATION = MicroondeAperto Event_t112------
+UtenteAlTelefono 
+------ EXPLANATION = UtenteAlTelefono Event_t112------
+UtenteDispensa 
+------ EXPLANATION = UtenteDispensa Event_t112------
+UtenteCloseDispensa 
+------ EXPLANATION = UtenteCloseDispensa Event_t112------
+CiboPronto 
+------ EXPLANATION = CiboPronto Event_t112------
+iDoor10_t45 Overlap Event_t112
+Event_t111 Before Event_t110
+Event_t110 Before Event_t109
+iItem2_t34 Overlap Event_t109
+iDoor10_t81 Overlap Event_t111
+iDoor10_t77 Overlap Event_t110
+Event_t112 Before Event_t111
+PentolaPresa 
+------ EXPLANATION = PentolaPresa Event_t112------
+UtenteApreDispensa 
+------ EXPLANATION = UtenteApreDispensa Event_t112------
+ 
